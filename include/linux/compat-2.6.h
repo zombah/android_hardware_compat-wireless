@@ -15,7 +15,6 @@
  * Each compat file represents compatibility code for new kernel
  * code introduced for *that* kernel revision.
  */
-#include </home/zombah/src/cm-10.1/kernel/toshiba/ac100/include/linux/export.h>
 
 #include <linux/compat-2.6.22.h>
 #include <linux/compat-2.6.23.h>
